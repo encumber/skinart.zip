@@ -1,6 +1,6 @@
 
     // Each artwork: [title, artist, desc, image]
-    const artwork = [
+    const artworks = [
         [
           'Ocupado',
           '182exe',
